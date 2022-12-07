@@ -1,2 +1,1 @@
-# ISS210FinalTemplate
-This is where you should drop citations for all the images, links, articles, etc. that you used. You do not need to create hyperlinks.
+Hanson, Melanie. Historic Total* National Student Loan Debt. 2022. Education Data Initiative, educationdata.org/wp-content/uploads/369/student-loan-debt-statistics.webp. Accessed 2 Dec. 2022. Chart
