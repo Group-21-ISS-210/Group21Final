@@ -8,4 +8,4 @@ Bing.com. (2022). Student debt - Bing. [online] Available at: https://www.bing.c
 
 ‌Hanson, Melanie. "12-Month Dropout Rates Among Fall-Term First-Year Undergraduates." Education Data Initiative, 2022. https://educationdata.org/wp-content/uploads/327/12-month-dropout-rates-among-fall-term-first-time-undergraduates2.webp. Accessed 10 Dec. 2022.
 
-![OIP zwovjwVwumHarcdSBBIaTQHaHa](https://user-images.githubusercontent.com/118774160/207754448-4372b992-2813-4b08-a8ae-d563572b5795.png)
+![OIP zwovjwVwumHarcdSBBIaTQHaHa](https://user-images.githubusercontent.com/118774160/207754448-4372b992-2813-4b08-a8ae-d563572b5795.jpeg)
